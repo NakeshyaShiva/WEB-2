@@ -1,0 +1,17 @@
+1. Document root adalah direktori utama atau folder utama di dalam sistem file yang berfungsi untuk menyimpan semua file
+
+2. Menurut saya hal itu wajib dikarenakan XAMPP secara default, mengatur C:\xampp\htdocs sebagai direktori dokumen root untuk server Apache-nya. Jika document root tidak ada di dalam folder ini, Apache tidak akan bisa menemukannya saat mencoba mengakses situs di browser. Yang akan mengakibatkan eror serta file tidak dapat di baca ataupun ditemukan.
+
+3. a. get init adalah perintah untuk membuat repository
+   b. git clone adalah perintah untuk mengambil salinan repositor dari server atau repository lain dan menyalin atau menduplikatnya
+   c. git remote adalah perintah untuk mengelola repository
+   d. git add adalah perintah untuk menambahkan file baru ke dalam repository
+   e. git commit adalah perintah yang berfungsi untuk membuat keterangan untuk program yang baru saja di tambahkan ke dalam repository
+   f. git push adalah perintah untuk mengupload file yang ada di repository local ke github
+   g. git checkout adalah perintah beralih dari satu branch ke branch lain.
+
+4. GitHub lebih ditujukan untuk open-source dan kerja sama, sementara GitLab lebih fokus pada menyediakan platform DevOps lengkap.
+
+5. Variabel user berlaku untuk satu pengguna, sementara variabel system berlaku untuk semua pengguna dalam sistem.
+
+6. Keduanya digunakan dalam pemrograman atau dalam analisis matematika dan Keduanya digunakan untuk menyimpan nilai
